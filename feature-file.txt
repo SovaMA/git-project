@@ -1,1 +1,3 @@
 feature text file
+
+And it's also for new commit 
